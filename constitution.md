@@ -10,3 +10,11 @@
 
 ## Node Registry
 - **Node #0001**: vandunkcompany (DID: [Add in Step 3])
+
+## Sovereignty Proof
+- **Node #0001**: vandunkcompany  
+- **IPFS CID**: QmdWzLeXSNUXZXUyDrnfUxKCQpoLfoKkjFnRWKiR8kyR7o  
+- **Gateway**: https://ipfs.filebase.io/ipfs/QmdWzLeXSNUXZXUyDrnfUxKCQpoLfoKkjFnRWKiR8kyR7o  
+- **Pinned via**: Filebase (Free Tier, Geo-Redundant)  
+- **Final Commit**: f35a1bc  
+- **DID**: [Add your DID here after generating]
